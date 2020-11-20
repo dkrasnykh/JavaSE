@@ -26,15 +26,13 @@ public class task3 {
             if (number > 0 && ipos < 7) {
                 positive[ipos] = number;
                 ipos++;
-            } else if (number < 0) {
+            } else if (number < 0 && ineg < 7) {
                 negative[ineg] = number;
                 ineg++;
             }
         }
-        Arrays.stream(positive).forEach((num) -> System.out.print(num + " "));
-        System.out.println();
-        Arrays.stream(negative).forEach((num) -> System.out.print(num + " "));
-
+        System.out.println(Arrays.toString(positive));
+        System.out.println(Arrays.toString(negative));
         int[] numbers = new int[7];
         for (int i = 0; i < 7; i++) {
             numbers[i] = positive[i] + negative[i];
