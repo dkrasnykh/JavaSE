@@ -1,4 +1,4 @@
-package practice2;
+package com.mera.training.practice2;
 /*
 Задание 2. Случайности расходятся
 - Создать массив на 5 элементов типа int и вывести на экран
@@ -8,7 +8,7 @@ package practice2;
 
 import java.util.Random;
 
-public class task2 {
+public class Task2 {
     static final int LEN = 5;
 
     public static void main(String[] args) {
