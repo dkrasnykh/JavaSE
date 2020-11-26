@@ -1,9 +1,9 @@
-package practice4;
+package com.mera.training.practice4;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class task2 {
+public class Task2 {
     static final int COUNT_FABRIC = 10;
     static final int COUNT_FRUIT = 20;
 

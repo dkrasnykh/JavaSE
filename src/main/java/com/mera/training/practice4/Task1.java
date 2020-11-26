@@ -1,8 +1,8 @@
-package practice4;
+package com.mera.training.practice4;
 import java.util.Arrays;
 import java.util.Random;
 
-public class task1 {
+public class Task1 {
     static final int LENGHT = 4;
 
     public static Fruit getRandomFruit() {

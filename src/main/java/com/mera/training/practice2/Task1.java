@@ -1,4 +1,4 @@
-package practice2;
+package com.mera.training.practice2;
 /*
 Задание 1. Случайности складываются -
 Создать массив на 10 чисел типа int
@@ -10,7 +10,7 @@ package practice2;
 
 import java.util.Random;
 
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int[] numbers = new int[10];
         Random random = new Random();

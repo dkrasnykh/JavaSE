@@ -1,4 +1,4 @@
-package practice2;
+package com.mera.training.practice2;
 /*
 Задание 3. Противоположности притигиваются
 - Создайте два массива на 7 элементов.
@@ -14,7 +14,7 @@ package practice2;
 import java.util.Arrays;
 import java.util.Random;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         int[] positive = new int[7];
         int[] negative = new int[7];

@@ -1,4 +1,4 @@
-package practice4;
+package com.mera.training.practice4;
 
 public class Fruit {
     protected int weight;

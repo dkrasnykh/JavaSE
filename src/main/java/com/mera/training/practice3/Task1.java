@@ -1,8 +1,8 @@
-package practice3;
+package com.mera.training.practice3;
 
 import java.util.Random;
 
-public class task1 {
+public class Task1 {
     static final int LENGHT = 50;
 
     public static void main(String[] args) {

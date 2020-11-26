@@ -1,4 +1,4 @@
-package practice3;
+package com.mera.training.practice3;
 
 import java.util.Random;
 

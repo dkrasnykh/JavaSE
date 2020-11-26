@@ -1,6 +1,4 @@
-package practice4;
-
-import java.util.Random;
+package com.mera.training.practice4;
 
 public class ThinOrangeFactory extends AbstractFabric {
     @Override
